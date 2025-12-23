@@ -1,0 +1,160 @@
+{
+  "version": 1,
+  "base_track": "Girl On Fire (Inferno Version)",
+  "base_artist": "Alicia Keys",
+  "createdAt": "2025-12-23T07:53:45.809086Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Girl on Fire (Inferno version)",
+      "artist": "Alicia Keys",
+      "has_synced": true,
+      "path": "select/01_Girl_on_Fire_(Inferno_version)_Alicia_Keys.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Girl On Fire (Inferno Version)",
+      "artist": "Alicia Keys",
+      "has_synced": true,
+      "path": "select/02_Girl_On_Fire_(Inferno_Version)_Alicia_Keys.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Girl On Fire (Inferno Version)",
+      "artist": "Alicia Keys/Nicki Minaj",
+      "has_synced": true,
+      "path": "select/03_Girl_On_Fire_(Inferno_Version)_Alicia_Keys_Nicki_Minaj.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Girl on Fire (Inferno version)",
+      "artist": "Alicia Keys",
+      "has_synced": true,
+      "path": "select/04_Girl_on_Fire_(Inferno_version)_Alicia_Keys.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Girl On Fire (Inferno Version)",
+      "artist": "Alicia Keys",
+      "has_synced": true,
+      "path": "select/05_Girl_On_Fire_(Inferno_Version)_Alicia_Keys.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Girl On Fire (Inferno Version) (feat. Alicia Keys)",
+      "artist": "Alicia Keys",
+      "has_synced": true,
+      "path": "select/06_Girl_On_Fire_(Inferno_Version)_(feat._Alicia_Keys)_Alicia_Keys.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Girl On Fire - Inferno Version",
+      "artist": "Alicia Keys/Nicki Minaj",
+      "has_synced": true,
+      "path": "select/07_Girl_On_Fire_-_Inferno_Version_Alicia_Keys_Nicki_Minaj.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Girl on Fire (Inferno)",
+      "artist": "Alicia Keys & Nicki Minaj",
+      "has_synced": true,
+      "path": "select/08_Girl_on_Fire_(Inferno)_Alicia_Keys_&_Nicki_Minaj.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Girl on Fire (Inferno version)",
+      "artist": "Alicia Keys",
+      "has_synced": true,
+      "path": "select/09_Girl_on_Fire_(Inferno_version)_Alicia_Keys.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Girl on Fire (Inferno version)",
+      "artist": "Alicia Keys",
+      "has_synced": true,
+      "path": "select/10_Girl_on_Fire_(Inferno_version)_Alicia_Keys.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Girl On Fire (Inferno Version)",
+      "artist": "Alicia Keys",
+      "has_synced": true,
+      "path": "select/11_Girl_On_Fire_(Inferno_Version)_Alicia_Keys.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Girl On Fire (Inferno Version)",
+      "artist": "Alicia Keys, Nicki Minaj",
+      "has_synced": true,
+      "path": "select/12_Girl_On_Fire_(Inferno_Version)_Alicia_Keys,_Nicki_Minaj.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Girl On Fire (Inferno Version) (Feat. Nicki Minaj)",
+      "artist": "Alicia Keys",
+      "has_synced": true,
+      "path": "select/13_Girl_On_Fire_(Inferno_Version)_(Feat._Nicki_Minaj)_Alicia_Keys.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Girl On Fire (Inferno Version)",
+      "artist": "Alicia Keys; Nicki Minaj",
+      "has_synced": true,
+      "path": "select/14_Girl_On_Fire_(Inferno_Version)_Alicia_Keys;_Nicki_Minaj.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Girl On Fire [Inferno Version][Version]",
+      "artist": "Alicia Keys/Nicki Minaj",
+      "has_synced": true,
+      "path": "select/15_Girl_On_Fire_[Inferno_Version][Version]_Alicia_Keys_Nicki_Minaj.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Girl on Fire (Inferno version)",
+      "artist": "Alicia Keys feat. Nicki Minaj",
+      "has_synced": true,
+      "path": "select/16_Girl_on_Fire_(Inferno_version)_Alicia_Keys_feat._Nicki_Minaj.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Girl on Fire (Inferno version)",
+      "artist": "Alicia Keys featuring Nicki Minaj",
+      "has_synced": true,
+      "path": "select/17_Girl_on_Fire_(Inferno_version)_Alicia_Keys_featuring_Nicki_Minaj.lrc"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "Girl On Fire [Inferno Version] (ft. Nicki Minaj)",
+      "artist": "Alicia Keys",
+      "has_synced": true,
+      "path": "select/18_Girl_On_Fire_[Inferno_Version]_(ft._Nicki_Minaj)_Alicia_Keys.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Girl On Fire [Inferno Version] (featuring Nicki Minaj)",
+      "artist": "Alicia Keys",
+      "has_synced": false,
+      "path": "select/pl_01_Girl_On_Fire_[Inferno_Version]_(featuring_Nicki_Minaj)_Alicia_Keys.txt"
+    }
+  ]
+}
